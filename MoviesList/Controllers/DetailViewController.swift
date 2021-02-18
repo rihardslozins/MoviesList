@@ -28,4 +28,4 @@ class DetailViewController: UIViewController {
             
         }
     }
-}//END
+}//End
